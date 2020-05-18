@@ -8,7 +8,7 @@
 - Após a instalação do [NodeJS](https://nodejs.org/en/) e do [Git](https://git-scm.com/downloads)
 - Crie uma pasta no seu diretório Documentos chamada **projetos**
 - Dentro da pasta projetos execute o comando `git clone https://github.com/stephencamilo/catchpokemon.git`
-- Entre na pasta apitest
+- Entre na pasta catchpokemon
 - Dentro da pasta apiteste execute o comando `npm init -y
 && npm install babel-cli@6 babel-preset-react-app@3
 && npx babel --watch assets/jsx --out-dir assets/js --presets react-app/prod`
