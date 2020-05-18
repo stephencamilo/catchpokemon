@@ -1,0 +1,6 @@
+html {
+  background-color: #ddd
+}
+.card-title {
+  text-transform: capitalize;
+}
