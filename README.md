@@ -1,7 +1,9 @@
-<p  align="center"><img src="https://cdn.pixabay.com/photo/2016/07/23/13/21/pokemon-1536855_960_720.png" width="500"/></p>
-<hr/>
+<p align="center"><img src="https://cdn.pixabay.com/photo/2016/07/23/13/21/pokemon-1536855_960_720.png" width="500"/></p>
+
 # CATCH POKEMON <img src="https://avatars3.githubusercontent.com/u/619543?s=460&u=6f261db6b295f29d08cfa9bbade15e9c94e9feb2&v=4" width="20">
+
 ### Teste de consumo de API com REACT no front-end
+
 ## Requisitos:
 - [NodeJS](https://nodejs.org/en/) -> https://nodejs.org/en/
 - [Git](https://git-scm.com/downloads) -> https://git-scm.com/downloads
