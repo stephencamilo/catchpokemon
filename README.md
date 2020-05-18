@@ -1,3 +1,5 @@
+<p  align="center"><img src="https://cdn.pixabay.com/photo/2016/07/23/13/21/pokemon-1536855_960_720.png" width="500"/></p>
+<hr/>
 # CATCH POKEMON <img src="https://avatars3.githubusercontent.com/u/619543?s=460&u=6f261db6b295f29d08cfa9bbade15e9c94e9feb2&v=4" width="20">
 ### Teste de consumo de API com REACT no front-end
 ## Requisitos:
@@ -13,5 +15,3 @@
 && npm install babel-cli@6 babel-preset-react-app@3
 && npx babel --watch assets/jsx --out-dir assets/js --presets react-app/prod`
 - PRONTO! Agora basta abrir o arquivo index.html no navegador.
-
-
